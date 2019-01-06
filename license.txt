@@ -21,3 +21,5 @@ W stopniu określonym przez obowiązujące przepisy prawne, poniższe warunki i 
 Jeśli którykolwiek z warunków lub postanowień jest lub stanie się nieważny, niewykonalny lub niewiążący, w dalszym ciągu pozostaną Państwo związani wszystkimi pozostałymi postanowieniami i warunkami. W takim przypadku nieważne postanowienie zostanie mimo wszystko wyegzekwowane w pełnym wymiarze, zgodnie z obowiązującym prawem, a Państwo zgodzą się co najmniej na uznanie podobnego postanowienia za nieważne, niewykonalne lub niewiążące, biorąc pod uwagę treść warunków i postanowień.
 
 C. Prawo do komercyjnego wykorzystania kodu z repozytorium posiada również magazyn "Programista". Tak gwoli ścisłości.
+
+D. Autor nie ponosi odpowiedzialności za wykorzystanie kodu lub jego fragmentów.
